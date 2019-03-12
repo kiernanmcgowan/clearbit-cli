@@ -18,7 +18,7 @@ Set your clearbit key to the environment variable `CLEARBIT_KEY`
 CLEARBIT_KEY=sk_magic
 ```
 
-And call clearbit's like so:
+And call clearbit's api like so:
 
 ```
 clearbit-cli company <domain>
