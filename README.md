@@ -9,6 +9,17 @@ Requires `go v1.11`
 go install github.com/kiernanmcgowan/clearbit-cli
 ```
 
+Usage
+==
+
+Set your clearbit key to the environment variable `CLEARBIT_KEY`
+
+```
+CLEARBIT_KEY=sk_magic
+```
+
+And call clearbit's like so:
+
 ```
 clearbit-cli company <domain>
 clearbit-cli person <email>
