@@ -6,7 +6,7 @@ A small wrapper around the `clearbit-go` library. Useful for quick lookups of th
 Requires `go v1.11`
 
 ```
-go install github.com/kiernanmcgowan/clearbit-cli
+go get github.com/kiernanmcgowan/clearbit-cli
 ```
 
 Usage
